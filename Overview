@@ -1,0 +1,43 @@
+Objective
+To numerically simulate and visualize optical skyrmion lattices by computing the electric field components (Eₓ, Eᵧ, E_z) in a 2D plane and evaluating the skyrmion number density (s) and total skyrmion number (S) for one unit cell.
+
+Background
+
+Optical skyrmions are topologically protected field textures that appear when structured light fields (such as evanescent waves) create a vector field with nontrivial topology — meaning the orientation of the electric field vectors wraps around a sphere in a quantized way.
+
+
+Results
+
+The simulated electric field forms a hexagonal lattice pattern with rotating in-plane vectors — characteristic of optical skyrmions.
+
+The skyrmion number S ≈ 1 (integer topological charge) for a single unit cell, confirming the topological nature of the field.
+
+The skyrmion density map shows alternating regions of positive and negative topological charge.
+
+
+Applications
+
+Topological photonics — design of robust light fields immune to perturbations.
+
+Optical data storage and nanophotonic devices using skyrmion textures.
+
+Spintronics analogy — understanding of magnetic skyrmions through optical models.
+
+Educational visualization of topological physics concepts.
+
+
+Future Enhancements
+
+Extend to 3D visualization and animation of evolving skyrmion lattices.
+
+Add interactive controls for wavelength, k_parallel, and phase offsets.
+
+Study parameter-dependent skyrmion transitions.
+
+Incorporate noise and imperfections for realistic modeling.
+
+
+Conclusion
+
+This project successfully simulates and visualizes an optical skyrmion lattice using Python.
+By numerically solving the electric field equations and evaluating the skyrmion number density, we demonstrate how structured light can carry nontrivial topological order, laying the groundwork for future explorations in topological photonics and optical information systems.
